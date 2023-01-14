@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13465499204",
+    "project_id": "chatcircle-82df2",
+    "storage_bucket": "chatcircle-82df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13465499204:android:cd5bccd82881ca46586e11",
+        "android_client_info": {
+          "package_name": "com.example.chatcircle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13465499204-5lunastnclpff115im230ma1jflit3nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9tPXp2Hp1ECOhuJ0CQALCSWSQMmpqmOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13465499204-5lunastnclpff115im230ma1jflit3nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
